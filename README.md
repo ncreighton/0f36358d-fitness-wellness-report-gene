@@ -1,2 +1,28 @@
-# 0f36358d-fitness-wellness-report-gene
-Professional fitness wellness n8n automation workflow — without the professional price tag.  Import the JSON, set your credentials, click activate. Running in minutes. Connects to 400+ apps via n8n's built-in integrations — no custom code needed.  ## What's Included  - Fitness &amp; Wellness Report Generation And Delivery Automation — fully configured
+# Fitness & Wellness Report Generation and Delivery Automation N8N Workflow
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic triggers | Yes | Yes |
+| Standard nodes | Yes | Yes |
+| Manual execution | Yes | Yes |
+| Advanced triggers | - | Yes |
+| Custom nodes | - | Yes |
+| Scheduled execution | - | Yes |
+| Error handling | - | Yes |
+| Priority queue | - | Yes |
+| Webhook integrations | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/14A7sL8v50bW2hieM4cZM1W)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/14A7sL8v50bW2hieM4cZM1W)
+
